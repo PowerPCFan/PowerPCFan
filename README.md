@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on the UltimateWindowsToolbox and the PC Flipper Windows Script
 - ⚡ Fun fact: I like computers. 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerPCFan&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![PowerPCFan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerPCFan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerPCFan&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
