@@ -8,5 +8,6 @@
 - ⚡ Fun fact: I like computers. 
 
 [![PowerPCFan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerPCFan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerPCFan&theme=transparent&layout=compact&exclude_repo=PowerPCFan,wiki,SteavenToolBoxFork,AnyBox)](https://github.com/anuraghazra/github-readme-stats)
-the top languages thing is kinda messed up because of my website lol
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerPCFan&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+The top languages thing is kinda messed up because of my website and forks for contributing to certain projects
