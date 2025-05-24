@@ -10,6 +10,6 @@
 - ⚡ Fun fact: I like computers. 
 
 [![PowerPCFan's GitHub stats](https://github-readme-stats.vercel.app/api?username=PowerPCFan&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerPCFan&theme=transparent&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PowerPCFan&theme=transparent&layout=compact&size_weight=0.2&count_weight=0.8)](https://github.com/anuraghazra/github-readme-stats)  
 
 The top languages thing is kinda messed up because of my website and forks for contributing to certain projects
