@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a lot of projects, especially the PC Flipper Windows Script and the HardwareSwap Listing Scraper.
 - ⚡ Fun fact: I love computers. (if that wasn't obvious! 😄)
 
-<div style="display: flex; flex-direction: row; align-items: center">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PowerPCFan&show_icons=true&locale=en&langs_count=8&exclude_repo=DeviceGalaxy,goober,AnyBox,Wiki,SteavenToolBoxFork&hide=html" alt="PowerPCFan" /></p>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PowerPCFan&show_icons=true&locale=en" alt="PowerPCFan" /></p>
 </div>
