@@ -14,7 +14,7 @@
 ![PowerPCFan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PowerPCFan&show_icons=true&locale=en)
 -->
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; margin: 16px 0; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PowerPCFan&show_icons=true&locale=en&langs_count=8&exclude_repo=DeviceGalaxy,goober,AnyBox,Wiki,SteavenToolBoxFork&hide=html" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=PowerPCFan&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
