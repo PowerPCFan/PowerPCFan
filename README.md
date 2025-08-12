@@ -8,9 +8,16 @@
 - 🔭 I’m currently working on a lot of projects, especially the PC Flipper Windows Script and the HardwareSwap Listing Scraper.
 - ⚡ Fun fact: I love computers. (if that wasn't obvious! 😄)
 
+<!--
 ![PowerPCFan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=PowerPCFan&show_icons=true&locale=en&langs_count=8&exclude_repo=DeviceGalaxy,goober,AnyBox,Wiki,SteavenToolBoxFork&hide=html)
 
 ![PowerPCFan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PowerPCFan&show_icons=true&locale=en)
+-->
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PowerPCFan&show_icons=true&locale=en&langs_count=8&exclude_repo=DeviceGalaxy,goober,AnyBox,Wiki,SteavenToolBoxFork&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PowerPCFan&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
 
 ## Project showcases
 
