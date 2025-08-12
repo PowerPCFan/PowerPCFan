@@ -1,10 +1,10 @@
 <h1 align="center">Hi there!👋 I'm PowerPCFan</h1>
 
 - My name is Charlie.
-- 😄 Pronouns: he/him
+- 🛜 Website: [powerpcfan.xyz](https://www.powerpcfan.xyz)
 - 🤔 I’m looking for help with pretty much anything on my profile
 - 🌱 I’m currently trying to master Python and Svelte.
-- 🌱 Some of my goals are to learn harder languages like C#, C++, or Java.
+- 🌱 Some of my goals are to learn harder languages like C#, C++, Java, or Rust.
 - 🔭 I’m currently working on a lot of projects, especially the PC Flipper Windows Script and the HardwareSwap Listing Scraper.
 - ⚡ Fun fact: I love computers. (if that wasn't obvious! 😄)
 
