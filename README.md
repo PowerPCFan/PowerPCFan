@@ -1,18 +1,12 @@
 <h1 align="center">Hi there!👋 I'm PowerPCFan</h1>
 
-- My name is Charlie.
-- 🛜 Website: [powerpcfan.xyz](https://www.powerpcfan.xyz)
+- 🏷️ My name is Charlie.
+- 🌎 Website: [powerpcfan.xyz](https://www.powerpcfan.xyz)
 - 🤔 I’m looking for help with pretty much anything on my profile
-- 🌱 I’m currently trying to master Python and Svelte.
-- 🌱 Some of my goals are to learn harder languages like C#, C++, Java, or Rust.
-- 🔭 I’m currently working on a lot of projects, especially the PC Flipper Windows Script and the HardwareSwap Listing Scraper.
+- 🤓 I’m currently trying to master Python and Svelte.
+- 🌱 Some of my goals are to learn harder languages like C#, C++, Java, and Rust.
+- 🔭 I’m currently working on a lot of projects, especially the projects showcased below or the projects pinned on my profile.
 - ⚡ Fun fact: I love computers. (if that wasn't obvious! 😄)
-
-<!--
-![PowerPCFan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=PowerPCFan&show_icons=true&locale=en&langs_count=8&exclude_repo=DeviceGalaxy,goober,AnyBox,Wiki,SteavenToolBoxFork&hide=html)
-
-![PowerPCFan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PowerPCFan&show_icons=true&locale=en)
--->
 
 ---
 
@@ -25,7 +19,7 @@
 
 ---
 
-## Project showcases
+## Project Showcase
 
 | Languages & Frameworks                          | Project                      | Repository                                                 | Short description                                                                                                                       |
 | ----------------------------------------------- | ---------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
