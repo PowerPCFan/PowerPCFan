@@ -3,10 +3,11 @@
 - 🏷️ My name is Charlie.
 - 🌎 Website: [powerpcfan.xyz](https://www.powerpcfan.xyz)
 - 🤔 I’m looking for help with pretty much anything on my profile
-- 🤓 I’m currently trying to master Python and Svelte.
-- 🌱 Some of my goals are to learn harder languages like C#, C++, Java, and Rust.
+- 🤓 I’m currently trying to master Python and Svelte, and I am learning C++.
 - 🔭 I’m currently working on a lot of projects, especially the projects showcased below or the projects pinned on my profile.
 - ⚡ Fun fact: I love computers. (if that wasn't obvious! 😄)
+
+*Check out my favorite projects and my GitHub stats below!*
 
 ---
 
