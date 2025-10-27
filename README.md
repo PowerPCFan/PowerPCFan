@@ -13,7 +13,7 @@
 ## Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 1.2rem;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PowerPCFan&layout=compact&theme=gruvbox&size_weight=0.75&count_weight=0.25&show_icons=true&locale=en&langs_count=8&exclude_repo=DeviceGalaxy,goober,AnyBox,Wiki,SteavenToolBoxFork&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PowerPCFan&layout=compact&theme=gruvbox&size_weight=0.65&count_weight=0.35&show_icons=true&locale=en&langs_count=8&exclude_repo=DeviceGalaxy,goober,AnyBox,Wiki,SteavenToolBoxFork&hide=html" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=PowerPCFan&theme=gruvbox&show_icons=true&locale=en" alt="GitHub Stats" style="display: block; margin: auto 0;" />
 </div>
 
@@ -31,6 +31,7 @@
 | Python, Flask                                   | lastfm-last-played           | https://github.com/PowerPCFan/lastfm-last-played           | An API that retrieves your currently playing or last played song from Last.fm using your Last.fm username                               |
 | Svelte, TypeScript, SCSS                        | website                      | https://github.com/PowerPCFan/website                      | My personal website: [powerpcfan.xyz](https://www.powerpcfan.xyz)                                                                       |
 | Svelte, TypeScript, SCSS                        | url-shortener                | https://github.com/PowerPCFan/url-shortener                | A modern, fast URL shortener hosted at [blinkl.ink](https://blinkl.ink)                                                                 |
+| C++, Qt 6                                       | WindowsWallpaperSwitcher     | https://github.com/PowerPCFan/WindowsWallpaperSwitcher     | A GUI application for Windows that allows you to effortlessly set your wallpaper to any of the wallpapers from past Windows and macOS versions. |
 | JavaScript, HTML, SCSS                          | blinklink-chrome-extension   | https://github.com/PowerPCFan/blinklink-chrome-extension   | A companion Chrome extension for my URL shortener BlinkLink. It lets you shorten the current URL and inject a share button on webpages. |
 | Python, PyQt6, PowerShell                       | caffeine-installer           | https://github.com/PowerPCFan/caffeine-installer           | Script to install [Caffeine](https://zhornsoftware.co.uk/caffeine), a tool by Zhorn Software to prevent your PC from going to sleep     |
 | PowerShell                                      | BetterfoxInstaller           | https://github.com/PowerPCFan/BetterfoxInstaller           | Script to install [Betterfox](https://github.com/yokoffing/Betterfox), a custom user.js file for Firefox to enhance speed, privacy, etc |
